@@ -43,8 +43,8 @@ public class Basics {
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
          */
-        System.out.println("Hello World!");
 
+        System.out.println("Hello World!");
 
         /* 4. In Python, we could declare variables using a simple assignment
          *    statement. For example:
@@ -69,6 +69,7 @@ public class Basics {
          * you should see the message "my_variable's value is 100" if you run
          * this file!
          */
+
         System.out.println("my_variable's value is " + my_variable);
 
         /* 5. In Python, we could write a loop that iterates using:
